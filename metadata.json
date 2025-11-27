@@ -1,0 +1,5 @@
+{
+  "name": "RAG-HC",
+  "description": "A Cassette Futurism styled interface for a RAG-based LLM Hallucination Detection & Correction framework, featuring a retro boot sequence and detailed process visualization.",
+  "requestFramePermissions": []
+}
